@@ -1,0 +1,9 @@
+{
+  "devServer": {
+    "port": 4000
+  },
+  "openWeatherAPI": {
+    "baseURL": "http://api.openweathermap.org/data/2.5/",
+    "key": ""
+  }
+}

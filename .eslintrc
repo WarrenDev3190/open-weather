@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "API_KEY": true,
+    "BASE_URL": true
+  }
+}
